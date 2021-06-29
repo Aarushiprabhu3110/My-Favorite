@@ -2,7 +2,9 @@ body {
     margin: 0;
     padding-top: 800px;
     text-align: center;
+    background-color: lightpink;
 }
+
 
 .profile {
     width: 175px;
@@ -196,3 +198,9 @@ html {
     height: 6px;
     background-color: black;
     margin: 8px auto;
+
+}
+
+SM:hover{
+    transform: scale(0.9);
+}
